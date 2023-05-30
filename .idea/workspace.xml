@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65278f7b-4d1f-47c7-a87e-c6eea9096bd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Buttons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capacitors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DepoServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Diodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ICs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inductors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LogicGates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MicroControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mosfets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Opamps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Resistors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ResistorsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Transistors.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QW2HCCoXLgXAZBM8KOxUJWjlcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/monster/IdeaProjects/postGreJDBC"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monster\Desktop\elektronik_malzeme_deposu\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="elektronik_malzeme_deposu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65278f7b-4d1f-47c7-a87e-c6eea9096bd1" name="Changes" comment="" />
+      <created>1685454929477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685454929477</updated>
+    </task>
+    <servers />
+  </component>
+</project>
