@@ -1,7 +1,9 @@
 import java.sql.Connection;
 
-public interface DepoServices
+public interface DepoServices<T>
 {
-    void createTable();
+    boolean createTable();
+
+
 
 }

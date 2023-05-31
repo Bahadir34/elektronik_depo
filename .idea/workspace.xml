@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65278f7b-4d1f-47c7-a87e-c6eea9096bd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capacitors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DepoServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Diodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ICs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inductors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LogicGates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MicroControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mosfets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Opamps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Resistors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ResistorsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transistors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ResistorProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DepoServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DepoServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ResistorsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ResistorsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/monster/IdeaProjects/postGreJDBC"
+    "last_opened_file_path": "C:/Users/monster/Desktop/elektronik_malzeme_deposu"
   }
 }]]></component>
   <component name="RecentsManager">

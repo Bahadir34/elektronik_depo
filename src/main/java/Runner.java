@@ -6,6 +6,7 @@ public class Runner
         ResistorsService service = new ResistorsService();
 
         service.createTable();
+
     }
 
     private static void repo_init()
